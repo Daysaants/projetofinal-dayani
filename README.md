@@ -4,7 +4,7 @@
 # O tema selecionado é a relação entre indicadores de saúde mental e variáveis socioeconômicas em diferentes países.
 # Bases de Dados Escolhidas e Fontes:
 # Base 1: Dados relacionados à saúde mental - Fonte: ttps://ourworldindata.org/grapher/dealing-with-anxiety-depression-comparison
-# [Base 2: Indicadores socioeconômicos]  - Fonte: (https://ourworldindata.org/grapher/antidepressants-per-capita-vs-gdp)
+# Base 2: Indicadores socioeconômicos - Fonte: (https://ourworldindata.org/grapher/antidepressants-per-capita-vs-gdp)
 
 # Objetivos Específicos:
 Explorar padrões e tendências nos dados de saúde mental e socioeconômicos.
