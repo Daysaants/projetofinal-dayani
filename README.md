@@ -36,5 +36,5 @@ O tema selecionado é a relação entre indicadores de saúde mental e variávei
     - Criar um notebook Jupyter (.ipynb) com a estrutura organizada e documentada em Markdown.
     - Incluir códigos, visualizações e análises passo a passo. 📓💻
 
-    ![Saúde Mental](https://br.pinterest.com/pin/917819599036322470/.png)
+
 
