@@ -1,4 +1,4 @@
-# Nome Projeto: Economia do Bem-Estar: Explorando a Saúde Mental em Contexto Global
+#  Economia do Bem-Estar: Explorando a Saúde Mental em Contexto Global
 ## Tema: Como as pessoas lidam com a ansiedade ou a depressão em todo o mundo? 🌍🧠
 
 ### Contexto do Tema Escolhido:
